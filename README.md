@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Divyata Pandey!
-Welcome to my GitHub profile! I'm a **Computer Science Undergraduate** and a passionate **MERN Stack Developer** and **Data Science**, **Machine Learning** Enthusiast. I enjoy solving real-world problems through technology and constantly strive to learn and grow.
+Welcome to my GitHub profile! I'm a **Computer Science Undergraduate**, a**MERN Stack Developer** and **Data Science**, **Machine Learning** Enthusiast. I enjoy solving real-world problems through technology and constantly strive to learn and grow.
 
 ---
 
