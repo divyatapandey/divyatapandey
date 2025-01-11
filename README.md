@@ -18,9 +18,4 @@ Welcome to my GitHub profile! I'm a **Computer Science Undergraduate** and a pas
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyatapandey&show_icons=true&theme=radical)
-
----
-
 Feel free to explore my repositories and connect with me for collaboration!
