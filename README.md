@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Divyata Pandey!
-Welcome to my GitHub profile! I'm a **Computer Science Undergraduate**, a**MERN Stack Developer** and **Data Science**, **Machine Learning** Enthusiast. I enjoy solving real-world problems through technology and constantly strive to learn and grow.
+Welcome to my GitHub profile! I'm a **Computer Science Undergraduate** and a**MERN Stack Developer**. I enjoy solving real-world problems through technology and constantly strive to learn and grow.
 
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages:** Python, JavaScript (ES6+), C++, C  
-- **Frameworks & Libraries:**  React.js, Redux , NumPy, Matplotlib, Scikit-learn, Pandas 
+- **Languages:**  JavaScript (ES6+), C++, C  
+- **Frameworks & Libraries:**  React.js 
 - **Backend Technologies:** Node.js, Express.js  
-- **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook, MongoDB
-- **Specializations:** Data Structures & Algorithms, RESTful APIs, MERN Stack Development , Machine Learning, Data Science 
+- **Tools & Platforms:** Git, GitHub, VS Code, MongoDB
+- **Specializations:** Data Structures & Algorithms, RESTful APIs, MERN Stack Development  
 
 ---
 
