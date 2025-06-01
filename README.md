@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a **Computer Science Undergraduate** and a**ME
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages:**  JavaScript (ES6+), C++, C  
+- **Languages:**  JavaScript (ES6+), C++, C, python
 - **Frameworks & Libraries:**  React.js 
 - **Backend Technologies:** Node.js, Express.js  
 - **Tools & Platforms:** Git, GitHub, VS Code, MongoDB
