@@ -23,15 +23,7 @@ Welcome to my GitHub profile! I'm a **Computer Science Undergraduate**, a **MERN
 - **Tools:** Jupyter Notebook, Google Colab, Kaggle Notebooks
 
 ### 🧰 Other Tools
-- Git & GitHub, VS Code, Postman, Excel
-
----
-
-## 🧠 Specializations
-- Data Structures & Algorithms  
-- MERN Stack Development  
-- Machine Learning & Predictive Modeling  
-- Exploratory Data Analysis (EDA)
+- Git & GitHub, VS Code, Postman
 
 ---
 
